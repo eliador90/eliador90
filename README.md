@@ -1,16 +1,16 @@
 # Hi, I'm Remo 👋
 
-Fractional CFO, AI-native builder, and angel investor based in Zurich,
+Fractional CFO, AI-native builder, and investor based in Zurich,
 Switzerland.
 
-By day I work with early-stage startups on financial strategy,
+I work with early-stage startups on financial strategy,
 operations, and fundraising. Background includes COO at
 [Dialectic](https://dialectic.com/) (~$400M AuM crypto fund), CFO at
 [DeSci Labs](https://www.desci.com/) (VC-backed Web3 startup), and
 Investment Manager at [TX Ventures](https://www.tx.ventures/) (early-stage
 FinTech VC). Earlier roles at Accenture Strategy, BlackRock, UBS, and PwC.
 
-By night I ship software. Most of my open-source work is exploration:
+More recently I build and tinker around building software products. Most of my open-source work is exploration:
 small tools and experiments at the intersection of AI, finance, and the
 things I'm personally curious about.
 
